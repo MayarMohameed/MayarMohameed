@@ -64,20 +64,7 @@
 - AI in Front-End (Smart UI, Voice Assistants)
 - Accessibility & Responsive Design
 
----
 
-### 🚀 My Projects
-
-- 💡 **Smart Health Band for Elderly**  
-  A simulated health monitoring app using fake data and basic AI for elderly care.
-
-- 🍽️ **FoodieHub Platform**  
-  Restaurant reservation and delivery system with dynamic menu & cart features.
-
-- 🌐 **Freelance Connect**  
-  A full platform to connect freelancers and clients with user roles & chat.
-
----
 
 ### 📜 Certificates
 - ✅ HTML, CSS, JS – Maharatak
